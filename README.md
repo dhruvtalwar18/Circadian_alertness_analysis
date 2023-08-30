@@ -1,4 +1,3 @@
-**Group 20:** Amitash Nanda, Dhruv Talwar, Haonan Li, Zhenzhe He 
 
 # Circadian-Rhythm-Driven-Alertness-Investigation
 
